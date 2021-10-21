@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wongy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wongy\\.nuget\\packages"
+    ]
+  }
+}

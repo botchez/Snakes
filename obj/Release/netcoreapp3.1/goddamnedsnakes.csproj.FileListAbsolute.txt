@@ -1,0 +1,12 @@
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\bin\Release\netcoreapp3.1\goddamnedsnakes.exe
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\bin\Release\netcoreapp3.1\goddamnedsnakes.deps.json
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\bin\Release\netcoreapp3.1\goddamnedsnakes.runtimeconfig.json
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\bin\Release\netcoreapp3.1\goddamnedsnakes.runtimeconfig.dev.json
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\bin\Release\netcoreapp3.1\goddamnedsnakes.dll
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\bin\Release\netcoreapp3.1\goddamnedsnakes.pdb
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\obj\Release\netcoreapp3.1\goddamnedsnakes.AssemblyInfoInputs.cache
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\obj\Release\netcoreapp3.1\goddamnedsnakes.AssemblyInfo.cs
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\obj\Release\netcoreapp3.1\goddamnedsnakes.csproj.CoreCompileInputs.cache
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\obj\Release\netcoreapp3.1\goddamnedsnakes.dll
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\obj\Release\netcoreapp3.1\goddamnedsnakes.pdb
+D:\Ngee Ann one drive\OneDrive - Ngee Ann Polytechnic\sem 1\_ C# programs\goddamnedsnakes\obj\Release\netcoreapp3.1\goddamnedsnakes.genruntimeconfig.cache
